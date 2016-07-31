@@ -2,7 +2,7 @@
 
 ## Installation
 
-In your terminal run **composer require softpampa/moip-assinaturas-laravel.** This will grab the last release.
+In your terminal run **composer require fripixel/moip-assinaturas-laravel.** This will grab the last release.
 
 Or
 
